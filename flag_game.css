@@ -1,0 +1,81 @@
+body{
+    margin: 0px;
+}
+
+
+.box1{
+    position: absolute;
+    text-align: center;
+    top: 37%;
+    left: 20%;
+    background-color: orange;
+    width: 230px;
+    height: 300px;
+}
+
+.box2{
+    position: absolute;
+    top: 37%;
+   
+    left: 60%;
+    
+    background-color: yellow;
+    width: 230px;
+    height: 300px;
+}
+section{
+    width: 100%;
+    height: 840px;
+    background-color:rgb(20, 30, 97);
+}
+
+
+
+.Submit_answer{
+    border: 5px solid blueviolet;
+    position: absolute;
+   top: 39%;
+   left: 43%;
+    width: 120px;
+    height: 120px;
+    font-size: 30px;
+
+}
+h1{
+    margin: 0px;
+}
+
+
+
+.result{
+    position: absolute;
+    margin: 0%;
+    top: 20%;
+    left: 33%;
+    font-size: 500%;
+}
+
+.Main_heading{
+   color: aliceblue;
+    font-weight: bolder;
+    font-size: 100px;
+
+}
+
+.total_answers{
+    position: absolute;
+    top: 70%;
+    left: 35.4%;
+    padding-left: 20px;
+    width: 370px;
+    background-color: rgb(84, 67, 107);
+}
+
+#same{
+    font-size: 20px;
+}
+
+.common_text{
+    font-size: 20px;
+}
+
